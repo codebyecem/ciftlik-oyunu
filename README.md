@@ -42,7 +42,5 @@ This is a browser-based farm game created using p5.js. The player selects a char
 - sketch.js → Game logic
 - index.html → Entry point
 
-## Note
 
-After planting seeds, wait a few seconds for growth. Don’t forget to check out Kübra’s home.
 
